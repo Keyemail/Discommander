@@ -1,0 +1,22 @@
+{
+  "name": "discommander",
+  "version": "11.6.3",
+  "description": "A simple and powerful moderation bot for people who want to moderate there servers!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.18.1"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "jsonfile": "^6.1.0",
+    "mkdirp-sync": "0.0.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2"
+  },
+  "license": "Free to use"
+}
