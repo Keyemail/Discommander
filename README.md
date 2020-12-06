@@ -6,18 +6,18 @@
 <h2>Commands
 <hr>
 
-<p style="font-size:20px;">Command | <p style="font-size:20px;">Description | <p style="font-size:20px;">Permission
+Command | Description | Permission
 ----------------- | ---------------------------------- | ------------------
-<p style="font-size:20px;">cm!ban | <p style="font-size:20px;">This allows you to ban anyone in your server without the ban permission. | <p style="font-size:20px;">Ban Members
-<p style="font-size:20px;">cm!kick | <p style="font-size:20px;">This allows you to kick  anyone in your server without the kick permission. | <p style="font-size:20px;">Kick Members
-<p style="font-size:20px;">cm!clear | <p style="font-size:20px;">This allows you to clear large amounts of text in your server. | <p style="font-size:20px;">Manage Messages
-<p style="font-size:20px;">cm!slowmode | <p style="font-size:20px;">This allows you to set any amount of slowmode on your server. | <p style="font-size:20px;">Manage Channels
-<p style="font-size:20px;">cm!version | <p style="font-size:20px;">This allows you to see what version the bot is runnning on. | <p style="font-size:20px;">None
-<p style="font-size:20px;">cm!serverinfo | <p style="font-size:20px;">This allows you to see the server information with details. | <p style="font-size:20px;">None
-<p style="font-size:20px;">cm!profile | <p style="font-size:20px;">This allows you to see someones profile information with details | <p style="font-size:20px;">None
-<p style="font-size:20px;">cm!nick | <p style="font-size:20px;">This allows you to change your nickname to whatever you choose on the server. | <p style="font-size:20px;">None
-<p style="font-size:20px;">cm!members | <p style="font-size:20px;">This allows you to see the amount of members offline and online. | <p style="font-size:20px;">None
-<p style="font-size:20px;">cm!help | <p style="font-size:20px;">This allows you to see all the commands and there permission to activate it. | <p style="font-size:20px;">None
+cm!ban | This allows you to ban anyone in your server without the ban permission. | Ban Members
+cm!kick | This allows you to kick  anyone in your server without the kick permission. | Kick Members
+cm!clear | This allows you to clear large amounts of text in your server. | Manage Messages
+cm!slowmode | This allows you to set any amount of slowmode on your server. | Manage Channels
+cm!version | This allows you to see what version the bot is runnning on. | None
+cm!serverinfo | This allows you to see the server information with details. | None
+cm!profile | This allows you to see someones profile information with details | None
+cm!nick | This allows you to change your nickname to whatever you choose on the server. | None
+cm!members | This allows you to see the amount of members offline and online. | None
+cm!help | This allows you to see all the commands and there permission to activate it. | None
   
 <h2>Credit
 <hr>
