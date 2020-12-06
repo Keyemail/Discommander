@@ -1,8 +1,8 @@
-<h2>#About
+#About
 
 <p style="font-size:20px;">Discommander is a bot that helps with moderating your Discord server! Such as commands like banning, kicking, and slowmode your chat! It can also be played around with members like getting server information or profile information. Such as when they join the server, when they join on discord, and wayyy more! Add this bot to your server today so that way you can help to moderate your discord server. More features will be coming soon!
 
-<h2>#Commands
+#Commands
 
 Command | Description | Permission
 ----------------- | -------------------- | ------------------
@@ -17,6 +17,6 @@ cm!nick | This allows you to change your nickname to whatever you choose on the 
 cm!members | This allows you to see the amount of members offline and online. | None
 cm!help | This allows you to see all the commands and there permission to activate it. | None
   
-<h2>#Credit
+#Credit
 
 <p style="font-size:20px;">All credit goes to Keyemail on Discord. Everything has been scripted by him.
