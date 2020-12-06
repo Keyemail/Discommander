@@ -7,7 +7,7 @@
 <hr>
 
 Command | Description | Permission
------------------ | ---------------------------------- | ------------------
+----------------- | ----------------------------- | ------------------
 cm!ban | This allows you to ban anyone in your server without the ban permission. | Ban Members
 cm!kick | This allows you to kick  anyone in your server without the kick permission. | Kick Members
 cm!clear | This allows you to clear large amounts of text in your server. | Manage Messages
